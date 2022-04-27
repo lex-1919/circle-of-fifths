@@ -362,7 +362,7 @@ function rotateGlobal() {
 
 
 function draw() {
-  background(95);
+  background(99);
   translate(width / 2, height / 2);
   mouseAngle(angle);
   rotateGlobal();
